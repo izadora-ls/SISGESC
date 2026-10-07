@@ -1,8 +1,6 @@
 # SISGESC
 Um projeto de Gestão de Sistema Educacional, projeto voltado para a estruturação e organização de um banco de dados de uma Escola Particular com 3 módulos iniciais: Acadêmico, Financeiro e Recursos Humanos.
 
-# SisGESC — Sistema de Gestão Escolar
-
 > Projeto ERP Escolar desenvolvido para a disciplina de Banco de Dados.
 > Implementa um ciclo completo: modelagem relacional (OLTP), carga idempotente,
 > operações transacionais, conversão para Data Warehouse (OLAP) e otimização de performance.
